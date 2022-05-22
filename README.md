@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h4>Followers:
+##Followers:
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kirilovengineering?style=social">
-Zize of repo SoftUni:
+##Zize of repo SoftUni:
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kirilovengineering/SoftUni">
