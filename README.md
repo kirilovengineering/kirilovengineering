@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-##Followers:<br>
+Followers:<br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kirilovengineering?style=social">
-##Zize of repo SoftUni:
+Size of repo SoftUni:<br>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kirilovengineering/SoftUni">
-##Activity per year:
+Activity per year:<br>
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kirilovengineering/SoftUni">
