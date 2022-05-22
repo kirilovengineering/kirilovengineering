@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 https://img.shields.io
-[/github/followers/:user?label=Follow](https://img.shields.io/github/followers/kirilovengineering?style=social)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/kirilovengineering?style=social">
