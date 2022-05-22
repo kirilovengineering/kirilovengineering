@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kirilovengineering?style=social">
-<img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/kirilovengineering/SoftUni?color=blue&logoColor=green">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kirilovengineering/SoftUni">
